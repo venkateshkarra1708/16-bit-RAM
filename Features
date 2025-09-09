@@ -1,0 +1,7 @@
+16 memory locations (addressed by a 4-bit address line).
+
+16-bit data width for each memory word.
+
+Separate read and write control signals.
+
+Fully synchronous design for FPGA/ASIC compatibility.
